@@ -1,0 +1,13 @@
+node_modules
+logs
+*.log
+data
+.DS_Store
+dist
+
+workspace.xml
+tasks.xml
+*.iml
+*/.idea/libraries/**/*
+*/target/**/*
+*/src/main/resources/credentials.properties
